@@ -20,6 +20,9 @@ There are 60,000 handwritten, 28 X 28 digits in the dataset. Here, a convolution
 
 ## Convolution Autoencoder Network Model
 
+![image](https://github.com/user-attachments/assets/d5d1c617-c0ae-478c-baea-4c7a89fb9fb8)
+
+
 ![image](https://github.com/user-attachments/assets/b3160a8f-246d-4823-a5f3-fef5df9612d5)
 
 ## DESIGN STEPS
